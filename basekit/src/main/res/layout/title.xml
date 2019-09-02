@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.muheda.customtitleview.CustomTitleView
+            android:id="@+id/base_title"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_50" />
+
+        <com.example.muheda.mhdsystemkit.systemUI.stateView.StateView
+            android:id="@+id/ll_load_page"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#f6f7f9"
+            android:visibility="gone"/>
+
+    </LinearLayout>
+</layout>

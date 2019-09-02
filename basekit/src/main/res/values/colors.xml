@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="line">#e8e8e8</color>
+    <color name="gran_br">#F6F7F9</color>
+    <color name="eeehar">#f5f5f5</color>
+    <color name="health">#57c29d</color>
+    <color name="view_xian">#e5e5e5</color>
+    <color name="font_6hui">#666666</color>
+    <color name="button_color">#57c29d</color>
+    <color name="cp_colorAccent">#F3F3F3</color>
+    <color name="gblack">#f1f1f1</color>
+    <color name="color_f7f7f7">#f7f7f7</color>
+</resources>
